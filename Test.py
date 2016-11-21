@@ -50,7 +50,7 @@ class Testing:
             for p in _ports:
                 try:
                     s = socket.create_connection((self._domain, p), 5)
-		    s.close()
+                    s.close()
                 except:
                     _closedPorts.append(p)
                     _ports.remove(p)
