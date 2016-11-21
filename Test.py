@@ -49,7 +49,8 @@ class Testing:
         while True:
             for p in _ports:
                 try:
-                    socket.create_connection((self._domain, p), 5)
+                    s = socket.create_connection((self._domain, p), 5)
+		    s.close()
                 except:
                     _closedPorts.append(p)
                     _ports.remove(p)
