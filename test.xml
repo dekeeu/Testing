@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title><![CDATA['"><script>alert(1)</script>]]>Sharing the Vibe podcast</title>
+	<atom:link href="https://www.sharingthevibe.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://www.sharingthevibe.com</link>
+	<description>Stories and ideas about health, wellness and connection</description>
+	<lastBuildDate>Mon, 27 Aug 2018 14:35:41 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<!-- podcast_generator="Blubrry PowerPress/7.3" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>Wellness expert Gloria Kimberley along with her producer Paul interview guests who share stories and ideas about health, wellness and connection. Topics covered include mindfulness, food, exercise, acupuncture, reiki and many many more. Guests talk about their areas of speciality and offer up tips and ideas that promote having a happier, longer healthspan. Complementary medicine is discussed, ideas to reduce stress, feel fitter and have good mental health. Join in at www.facebook.com/sharingthevibepodcast</itunes:summary>
+	<itunes:author><![CDATA['"><script>alert(1)</script>]]>Gloria Kimberley - health &amp; wellness</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://www.digitalavalon.co.uk/gloriapodcast/wp-content/uploads/powerpress/PK-STV-Podcast-logo.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Gloria Kimberley - health &amp; wellness</itunes:name>
+		<itunes:email>pauly468@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>pauly468@gmail.com (Gloria Kimberley - health &amp; wellness)</managingEditor>
+	<copyright>&#xA9; Sharing the Vibe Podcast 2018</copyright>
+	<itunes:subtitle>Stories and ideas about health, wellness and connection</itunes:subtitle>
+	<image>
+		<title>Sharing the Vibe podcast</title>
+		<url>https://www.digitalavalon.co.uk/gloriapodcast/wp-content/uploads/powerpress/PK-STV-Podcast-logo.jpg</url>
+		<link>https://www.sharingthevibe.com</link>
+	</image>
+	<itunes:category text="Health">
+	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>Leeds, UK</rawvoice:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://www.sharingthevibe.com/feed/podcast/" html="https://www.sharingthevibe.com/subscribe-to-podcast/" blubrry="https://www.blubrry.com/sharingthevibe/" stitcher="​​https://www.stitcher.com/s?fid=227198&amp;refid=stpr" tunein="https://tunein.com/podcasts/Health--Wellness-Podcasts/Sharing-the-Vibe-p1151902/"></rawvoice:subscribe>
+	<item>
+		<title>Sharing the Vibe S01 E01</title>
+		<link>https://www.sharingthevibe.com/sharing-the-vibe-s01-e01/</link>
+		<pubDate>Sun, 26 Aug 2018 16:30:57 +0000</pubDate>
+		<guid isPermaLink="false">https://www.sharingthevibe.com/?p=583</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/sharingthevibe/content.blubrry.com/sharingthevibe/STV_S1E1.mp3" length="37985568" type="audio/mpeg" />
+		<itunes:subtitle>Acupuncture, reiki and a move to complementary medicine, all part of Robert&#039;s story</itunes:subtitle>
+		<itunes:author>Gloria Kimberley - health &amp; wellness</itunes:author>
+		<itunes:image href="https://www.digitalavalon.co.uk/gloriapodcast/wp-content/uploads/powerpress/PK-STV-Podcast-logo.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:34</itunes:duration>
+		</item>
+</channel>
+</rss>
